@@ -5,3 +5,5 @@ This Grand Theft Auto 5 mod kills you if you talk to a selected gender(default: 
 # Installation:
 
 Put AOM.cs into your scripts folder and make sure Scripthook V.net is installed.
+
+DO NOT REUPLOAD THIS MOD WITHOUT MY PERMISSION
